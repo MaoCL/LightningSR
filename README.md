@@ -1,4 +1,4 @@
-# :rocket: BasicSR Examples
+# :rocket: LightningSR
 
 [![download](https://img.shields.io/github/downloads/xinntao/BasicSR-examples/total.svg)](https://github.com/xinntao/BasicSR-examples/releases)
 [![Open issue](https://img.shields.io/github/issues/xinntao/BasicSR-examples)](https://github.com/xinntao/BasicSR-examples/issues)
